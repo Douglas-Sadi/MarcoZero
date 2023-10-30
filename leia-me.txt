@@ -1,0 +1,22 @@
+Olá,
+
+Afim de centralizar as duas atividades em um único repositório, serão realizadas neste mesmo projeto, os exerícios 3 e 4, nos quais são:
+
+--------------------------------------------------------------------------------------------------------------------------------
+Exercício 3
+
+A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pontos turísticos e um deles é o Marco Zero. Sabendo disso, crie uma página HTML, falando sobre esse ponto turístico de acordo com os seguintes pré-requisitos:
+
+1. A página precisa ter cabeçalho, conteúdo e rodapé;
+2. A página precisa ter imagens;
+3. Use a tag de semântica textual inline.
+--------------------------------------------------------------------------------------------------------------------------------
+Exercício 4
+
+Com a página sobre o Marco Zero feita, é necessário de uma outra página e de um link que leve até ela. Na nova página, fale sobre dois outros pontos turísticos do Recife Antigo e siga os pré-requisitos a seguir:
+
+1. Crie um link que irá direncionar para essa nova página
+2. Adicione imagens sobre os lugares
+--------------------------------------------------------------------------------------------------------------------------------
+
+Meus conhecimentos em HTML são básicos, apenas para aplicação das atividades.
